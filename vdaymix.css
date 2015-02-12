@@ -44,7 +44,7 @@ body {
   cursor: pointer;
 }
 .header path {
-  fill: #fff;
+  fill: #ggg;
 }
 .pause,
 .playing .play {
