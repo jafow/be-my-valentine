@@ -44,7 +44,7 @@ body {
   cursor: pointer;
 }
 .header path {
-  fill: #b2b2b2;
+  fill: #a5a5a5;
 }
 .pause,
 .playing .play {
@@ -56,13 +56,13 @@ body {
 .header h1 {
   padding: 15px 0 0 200px;
   font: bold 150px 'Helvetica', Arial, sans-serif;
-  color: #fff;
+  color: #a5a5a5;
   margin: 0;
 }
 .playlist {
   margin: 50px 0 0 170px;
   list-style: none;
-  color: #b2b2b2;
+  color: #a5a5a5;
   font: 22px 'Times New Roman', 'Times', serif;
   padding-bottom: 50px;
 }
