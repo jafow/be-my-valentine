@@ -18,7 +18,7 @@ body {
   height: 100%;
   position: fixed;
   z-index: -1;
-  background: #000 center center;
+  background: #000 center left;
   background-size: cover;
 }
 .upper {
@@ -63,7 +63,7 @@ body {
   margin: 50px 0 0 170px;
   list-style: none;
   color: #3c3c3c;
-  font: 28px 'Times New Roman', 'Times', serif;
+  font: 23px 'Times New Roman', 'Times', serif;
   padding-bottom: 25px;
 }
 .song {
@@ -85,7 +85,7 @@ body {
 }
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   .container {
-    width: 90%;
+    width: 85%;
     margin-top: 0;
   }
   .header svg {
