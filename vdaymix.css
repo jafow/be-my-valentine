@@ -62,7 +62,7 @@ body {
 .playlist {
   margin: 50px 0 0 170px;
   list-style: none;
-  color: #444444;
+  color: #3c3c3c;
   font: 28px 'Times New Roman', 'Times', serif;
   padding-bottom: 25px;
 }
@@ -70,7 +70,7 @@ body {
   margin-bottom: 20px;
 }
 .song span {
-  padding: 5px 5x;
+  padding: 5px 5px;
   cursor: pointer;
 }
 .song:hover span {
