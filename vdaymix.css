@@ -44,7 +44,7 @@ body {
   cursor: pointer;
 }
 .header path {
-  fill: #b2b2b2;
+  fill: rgba(0,0,0,.9);
 }
 .pause,
 .playing .play {
@@ -63,7 +63,7 @@ body {
   margin: 50px 0 0 170px;
   list-style: none;
   color: #3c3c3c;
-  font: 23px 'Times New Roman', 'Times', serif;
+  font: 23px 'Georgia', serif;
   padding-bottom: 25px;
 }
 .song {
@@ -90,7 +90,7 @@ body {
   }
   .cover {
 	position: fixed;
-	background-position: -280px 0px;
+	background-position: -295px 0px;
   }
   .header svg {
     width: 75px;
