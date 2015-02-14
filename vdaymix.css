@@ -88,16 +88,26 @@ body {
     width: 85%;
     margin-top: 0;
   }
+  .cover {
+	position: fixed;
+	background-position: -280px 0px;
+  }
   .header svg {
     width: 75px;
     height: 75px;
+  }
+  .header path {
+	fill: #fff;
+  
   }
   .header h1 {
     padding: 13px 0 0 85px;
     font-size: 45px;
   }
   .playlist {
-    margin: 20px 0 0 40px;
+    margin: 20px 0 0 45px;
+    color: white;
+    font: 14px;
   }
   .exercise-view .num {
     display: none;
